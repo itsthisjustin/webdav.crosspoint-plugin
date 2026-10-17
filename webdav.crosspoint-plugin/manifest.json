@@ -1,0 +1,15 @@
+{
+  "name": "webdav",
+  "title": "WebDAV",
+  "mount": "settings",
+  "description": "Browse and download books from a WebDAV server (Nextcloud, Koofr, ...).",
+  "author": "Diirge",
+  "version": "1.0.1",
+  "files": [
+    "manifest.json",
+    "device.json",
+    "plugin.js",
+    "README.md",
+    "DETAILS.md"
+  ]
+}
